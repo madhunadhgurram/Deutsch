@@ -10,7 +10,7 @@ The German language, known as “Deutsch” in German, is a West Germanic langua
 * du - you
 * Gut - good
 
-
+----
 * Guten Morgen - good morning
 * Guten Nachmittag - good afternoon
 * Guten Abend - good evening
