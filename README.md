@@ -15,4 +15,5 @@ The German language, known as “Deutsch” in German, is a West Germanic langua
 * Guten Nachmittag - good afternoon
 * Guten Abend - good evening
 * Guten Nacht - good night
-  
+
+*  
