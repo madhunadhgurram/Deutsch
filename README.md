@@ -3,7 +3,7 @@ The German language, known as “Deutsch” in German, is a West Germanic langua
 
 * Hallo - hello
 * Tschuss - Bye 
-* Bitte - Please 
+* Bitte - Please  
 * Danke - Thank you
 * Ja - yes 
 * nein - no
