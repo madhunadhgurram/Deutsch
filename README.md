@@ -5,7 +5,7 @@ The German language, known as “Deutsch” in German, is a West Germanic langua
 * Tschuss - Bye
 * Bitte - Please
 * Danke - Thank you
-* Ja - yes
+* Ja - yes 
 * nein - no
 * Bist - are
 * du - you
