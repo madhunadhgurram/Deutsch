@@ -2,7 +2,7 @@
 The German language, known as “Deutsch” in German, is a West Germanic language primarily spoken in Germany.
 
 * Hallo - hello
-* Tschuss - Bye
+* Tschuss - Bye 
 * Bitte - Please 
 * Danke - Thank you
 * Ja - yes 
